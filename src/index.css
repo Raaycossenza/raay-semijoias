@@ -4,6 +4,9 @@
 
 body {
   @apply bg-dark text-white font-sans;
-}.input {
+}
+
+.input {
   @apply w-full p-2 rounded bg-dark border border-roseGold text-white placeholder-gray-400;
 }
+
