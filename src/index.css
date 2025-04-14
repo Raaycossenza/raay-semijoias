@@ -4,10 +4,6 @@
 
 body {
   @apply bg-dark text-white font-sans;
-<<<<<<< HEAD
 }.input {
   @apply w-full p-2 rounded bg-dark border border-roseGold text-white placeholder-gray-400;
 }
-=======
-}
->>>>>>> 000ad84adf410d954404eaa689413751bb87b475
