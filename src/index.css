@@ -4,9 +4,19 @@
 
 body {
   @apply bg-dark text-white font-sans;
+<<<<<<< HEAD
 }
 
 .input {
   @apply w-full p-2 rounded bg-dark border border-roseGold text-white placeholder-gray-400;
 }
 
+=======
+<<<<<<< HEAD
+}.input {
+  @apply w-full p-2 rounded bg-dark border border-roseGold text-white placeholder-gray-400;
+}
+=======
+}
+>>>>>>> 000ad84adf410d954404eaa689413751bb87b475
+>>>>>>> 4a13c3f074978a3fcc95cb70dcbe4ac397d358b2
